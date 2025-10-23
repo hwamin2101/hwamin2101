@@ -33,9 +33,9 @@ I’m constantly learning, improving, and building projects that make a differen
   </table>
 
 </div>
-<div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=hwamin2101)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hwamin2101)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hwamin2101)  
 </div>
   
