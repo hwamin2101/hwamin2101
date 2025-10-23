@@ -33,7 +33,10 @@ I’m constantly learning, improving, and building projects that make a differen
   </table>
 
 </div>
+(https://github.com/hwamin2101)  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=hwamin2101)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hwamin2101) 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=hwamin2101)  
+
 
