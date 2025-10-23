@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hong Pham!
 
-💻 **IT Student** | 🌐 **Frontend Developer** | 💡 **Lifelong Learner**
+💻 **IT Student** | 💡 **Lifelong Learner**
 
 Welcome to my GitHub profile!  
 I’m passionate about building digital products and improving user experiences through clean, modern web interfaces.
