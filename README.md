@@ -33,11 +33,6 @@ I’m constantly learning, improving, and building projects that make a differen
   </table>
 
 </div>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hwamin2101&theme=flat&row=1&margin-w=10&margin-h=10" alt="Trophy" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hwamin2101&theme=default&hide_border=true" alt="GitHub Streak Stats" />
