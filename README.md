@@ -10,7 +10,7 @@ I’m passionate about building digital products and improving user experiences 
 I'm an Information Technology student who enjoys creating intuitive and responsive web applications.  
 I’m constantly learning, improving, and building projects that make a difference.
 
-🚀 **Check out my [Portfolio](https://my-portfolio-delta-three-12.vercel.app/)** – Projects & Skills in Web Development
+🚀 **Check out my [Portfolio](https://hwamin.vercel.app/)** – Projects & Skills in Web Development
 
 
 ---
